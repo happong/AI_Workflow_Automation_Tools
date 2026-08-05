@@ -1,5 +1,3 @@
-# AI_Workflow_Automation_Tools
-AI를 활용한 툴 생성한 내용입니다. 
 # 🤖 AI Workflow Automation Tools
 
 > 게임 개발 프로젝트(JSY)에서 반복되는 수작업을 AI API로 자동화한 도구 모음입니다.  
